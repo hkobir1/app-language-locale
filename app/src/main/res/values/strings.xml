@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">TestGround</string>
+    <string name="app_title">TestGround</string>
+    <string name="app_test">Go ahead</string>
+</resources>
